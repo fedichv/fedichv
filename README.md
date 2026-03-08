@@ -1,26 +1,26 @@
-<h1 align="center">Владимир Федичев — iOS Developer</h1>
+<h1 align="center">Vladimir Fedichev — iOS Developer</h1>
 <p align="center">
-  <b>Москва | <a href="mailto:fedichev06@bk.ru">fedichev06@bk.ru</a> | +7&nbsp;985&nbsp;024&nbsp;41&nbsp;62 | <a href="https://t.me/fedich_v">Telegram: @fedich_v</a></b>
+  <b>Moscow | <a href="mailto:fedichev06@bk.ru">fedichev06@bk.ru</a> | +7&nbsp;985&nbsp;024&nbsp;41&nbsp;62 | <a href="https://t.me/fedich_v">Telegram: @fedich_v</a></b>
 </p>
 <p align="center">
   <a href="https://fedichv.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Интерактивное_резюме-Открыть_сайт-4285F4?style=for-the-badge&logo=safari&logoColor=fff">
+    <img src="https://img.shields.io/badge/Interactive_Resume-Open_Website-4285F4?style=for-the-badge&logo=safari&logoColor=fff">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 О себе
+## 👨‍💻 About Me
 
-- **iOS Developer** — студент колледжа по направлению «Информационные системы и программирование», развиваюсь в мобильной разработке под iOS
-- Пишу на **Swift** (>1 года), знаю **UIKit, SwiftUI, паттерны MVC/MVVM/MVP**
-- Опыт в pet-проектах, командной работе и на фрилансе
-- Практикую Git, CI/CD, командную строку, Figma и тестирование (unit/UI)
-- Постоянно изучаю архитектуру, алгоритмы, новые фреймворки
+- **iOS Developer** — college student majoring in *Information Systems and Programming*, focused on iOS mobile development  
+- Developing with **Swift** for over 1 year, experienced with **UIKit, SwiftUI, MVC/MVVM/MVP architectures**  
+- Experience in pet projects, teamwork, and freelance development  
+- Practice with Git, CI/CD, command line tools, Figma, and testing (unit/UI)  
+- Constantly learning architecture, algorithms, and new frameworks
 
 ---
 
-## 🛠 Что умею
+## 🛠 Skills
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-blue?style=for-the-badge&logo=apple)
@@ -34,61 +34,62 @@
 
 ---
 
-## 🌱 Стек и инструменты
+## 🌱 Tech Stack & Tools
 
-- Языки: Swift, Python, Kotlin, Rust, Bash, C#
-- Фреймворки: UIKit, SwiftUI, CoreData, работа с JSON
-- Инструменты: Xcode, Git, Fork, SFSymbols, Microsoft Office, Visual Studio Code, Android Studio
-- Базы данных: Core Data, SQLite
-- Сервисы: Firebase
-- Операционные системы: macOS, Windows, Linux
-
----
-
-## 🚀 Интересные проекты
-
-- **ToDoList** ([MVVM, CoreData, API, тесты](https://github.com/fedichv/ToDoList)) — приложение для задач с архитектурой MVVM
-- **Заказ в кафе** — UIKit, кастомные UI, макет из Figma, локальный сервер на Swifter
-- **VPN-клиент на WireGuard** — iOS-приложение с интеграцией сервера
-- **Опросник** — приложение на UIKit
-- **Pet-проекты:** смотрите на [моём GitHub](https://github.com/fedichv)
+- **Languages:** Swift, Python, Kotlin, Rust, Bash, C#  
+- **Frameworks:** UIKit, SwiftUI, CoreData, JSON handling  
+- **Tools:** Xcode, Git, Fork, SF Symbols, Microsoft Office, Visual Studio Code, Android Studio  
+- **Databases:** Core Data, SQLite  
+- **Services:** Firebase  
+- **Operating Systems:** macOS, Windows, Linux  
 
 ---
 
-## 🏫 Образование
+## 🚀 Notable Projects
 
-- **Колледж Мировой Экономики и Передовых Технологий** — Информационные системы и программирование (2022–2026)
-- **Курсы:**  
-  - SwiftBook — “iOS-разработка с нуля до middle”, 2024  
-  - VK/SwiftBook — Алгоритмы и структуры данных (2024, в процессе)
-- ГБОУ Школа №2073 (до 2022)
-
----
-
-## 📈 Немного о себе
-
-- Люблю создавать реально полезный, красивый и понятный UI
-- Интересуюсь архитектурой, алгоритмами, автоматизацией, учусь на LeetCode
-- Умею работать как самостоятельно, так и в команде с наставником или дизайнером
-- В свободное время изучаю современные подходы, общаюсь на англоязычных ресурсах, люблю прогулки, музыку, IT
+- **ToDoList** ([MVVM, CoreData, API, tests](https://github.com/fedichv/ToDoList)) — task management app built with MVVM architecture  
+- **Cafe Ordering App** — UIKit app with custom UI, Figma-based design, and a local server using Swifter  
+- **WireGuard VPN Client** — iOS application with server integration  
+- **Survey App** — UIKit-based questionnaire application  
+- **Pet Projects:** see more on [my GitHub](https://github.com/fedichv)
 
 ---
 
-## 📫 Связаться со мной
+## 🏫 Education
 
-- Telegram: [@fedich_v](https://t.me/fedich_v)
-- Email: [fedichev06@bk.ru](mailto:fedichev06@bk.ru)
+- **College of World Economy and Advanced Technologies** — Information Systems and Programming (2022–2026)  
+
+- **Courses:**  
+  - SwiftBook — *“iOS Development from Zero to Middle”*, 2024  
+  - VK / SwiftBook — *Algorithms and Data Structures* (2024, in progress)  
+
+- **School:** GBOU School №2073 (until 2022)
+
+---
+
+## 📈 A Little About Me
+
+- I enjoy building **useful, clean, and intuitive UI**  
+- Interested in **software architecture, algorithms, and automation**  
+- Practice problem-solving on **LeetCode**  
+- Comfortable working both **independently and in a team** with mentors or designers  
+- In my free time I study modern technologies, communicate on English-speaking platforms, enjoy walking, music, and IT
+
+---
+
+## 📫 Contact Me
+
+- Telegram: [@fedich_v](https://t.me/fedich_v)  
+- Email: [fedichev06@bk.ru](mailto:fedichev06@bk.ru)  
 - GitHub: [fedichv](https://github.com/fedichv)
 
 ---
 
-> 💡 **Самое подробное и интерактивное резюме — [здесь](https://fedichv.github.io/)!**
->
-
+> 💡 **The most detailed and interactive version of my resume is available [here](https://fedichv.github.io/)!**
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS%20Developer-Swift-orange?style=flat-square&logo=apple" title="iOS Developer"> <br>
-  <sub>Буду рад новым профессиональным знакомствам и интересным задачам!</sub>
+  <sub>I’m always open to new professional connections and interesting challenges!</sub>
 </p>
